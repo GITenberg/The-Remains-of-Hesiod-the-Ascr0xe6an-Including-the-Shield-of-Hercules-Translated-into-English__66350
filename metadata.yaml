@@ -1,0 +1,39 @@
+_repo: The-Remains-of-Hesiod-the-Ascr0xe6an-Including-the-Shield-of-Hercules-Translated-into-English__66350
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Elton, Charles Abraham, Sir
+    birthdate: 1778
+    deathdate: 1853
+    gutenberg_agent_id: '53761'
+    url: http://www.gutenberg.org/2009/agents/53761
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Abraham_Elton
+  - agent_name: Chapman, George
+    deathdate: 1634
+    gutenberg_agent_id: '9210'
+    url: http://www.gutenberg.org/2009/agents/9210
+    wikipedia: https://en.wikipedia.org/wiki/George_Chapman
+creator:
+  author:
+    agent_name: Hesiod
+    gutenberg_agent_id: '191'
+    url: http://www.gutenberg.org/2009/agents/191
+    wikipedia: https://en.wikipedia.org/wiki/Hesiod
+description: '"Specimens of Chapman''s Hesiod": p. 253-262.'
+gutenberg_issued: '2021-09-20'
+identifiers:
+  gutenberg: '66350'
+  lccn: '17004953'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hesiod -- Translations into English'
+- !lcc 'PA'
+- !lcsh 'Heracles (Greek mythological character) -- Poetry'
+- GITenberg
+title: "The Remains of Hesiod the Ascræan, Including the Shield of Hercules\r\nTranslated\
+  \ into English rhyme and blank verse; with a dissertation on the life and æra, the\
+  \ poems and mythology of Hesiod, and copious notes."
+url: http://www.gutenberg.org/ebooks/66350
