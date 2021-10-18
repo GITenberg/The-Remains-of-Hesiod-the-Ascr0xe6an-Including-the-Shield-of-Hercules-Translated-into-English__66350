@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '9210'
     url: http://www.gutenberg.org/2009/agents/9210
     wikipedia: https://en.wikipedia.org/wiki/George_Chapman
+covers:
+- cover_type: archival
+  image_path: 66350-h/images/cover.jpg
 creator:
   author:
     agent_name: Hesiod
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/191
     wikipedia: https://en.wikipedia.org/wiki/Hesiod
 description: '"Specimens of Chapman''s Hesiod": p. 253-262.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66350#The-Remains-of-Hesiod-the-Ascr0xe6an-Including-the-Shield-of-Hercules-Translated-into-English_
 gutenberg_issued: '2021-09-20'
 identifiers:
   gutenberg: '66350'
